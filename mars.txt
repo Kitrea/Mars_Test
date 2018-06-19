@@ -10,3 +10,5 @@ Cold and dry, but everything is my favorite color
 Here I am going back in a second time, editting the file using Spyder, after 
 having typed into the terminal, 'spyder mars.txt'. 
 Now, I am writing in a third time, and clicking 'save' through spyder. 
+
+#now I am back again, this time to run through all steps at once.
